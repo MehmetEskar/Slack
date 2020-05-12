@@ -5,6 +5,9 @@ public class login {
     public static void main(String[] args) {
 
         System.out.println("send me to gitHub");
+        
+        System.out.println("good job");
+        
     }
 
 
