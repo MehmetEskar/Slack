@@ -8,6 +8,8 @@ public class login {
         
         System.out.println("good job");
         
+        System.out.println("git fetch");
+        
     }
 
 
