@@ -9,7 +9,12 @@ public class CreateChannel {
         //main metodu calistirmazsak out gelmez
         // out class .class dannt
 
-
+String s= "a";
+if(s.contains("a")){
+    System.out.println("contains");
+}else{
+    System.out.println("not");
+}
 
     }
 }
