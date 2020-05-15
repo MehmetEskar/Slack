@@ -9,7 +9,10 @@ public class CreateChannel {
         //main metodu calistirmazsak out gelmez
         // out class .class dannt
 
-
+        int x =5;    // added from Inttelij
+        if (x>5) {
+            System.out.println("false");
+        }
 
     }
 }
